@@ -1,0 +1,66 @@
+.page {
+    width: 1280px;
+    margin: 0 auto;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.upperbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 550px;
+    margin-top: 13px;
+    margin-left: 37px;
+    margin-bottom: 8px;
+}
+
+.leader {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 129px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.text {
+    font-size: 40px;
+    line-height: 54px;
+    align-items: center;
+    text-align: center;
+    width: 1070px;
+    height: 388px;
+    margin-left: 105px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-evenly;  
+    text-align: left;
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 80px;
+}
+
+.downbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 530px;
+    margin-left: 0px;
+}
+
+.icon {
+    margin-left: 878px;
+    margin-top: -110px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
